@@ -174,7 +174,7 @@ large amount of training time while providing accuracy that could be comparable 
 traditional classifier; this demonstrates why many applications for computer vision have 
 moved from using MLP to CNN.
 
-## Personal Conclusions
+## Conclusion
 Comparing the accuracy of these classifiers on MNIST to Fashion-MNIST, it can 
 be clearly seen that the Fashion-MNIST dataset provides much more challenging 
 classification problem than its predecessor. By being a more difficult problem to solve, 
